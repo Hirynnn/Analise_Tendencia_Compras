@@ -9,7 +9,6 @@
 - Python para limpeza e análise
 - Jupyter Notebook
 - Power BI para criação de dashboard
-- Power Point para apresentação oral dos insights
 
 
  
